@@ -1,0 +1,74 @@
+Estou aprendendo a linguagem Markdown no curso em ídeo de Git e GitHub
+**Markdown**
+***Markdown***
+__Markdown__
+~~Markdown~~
+
+---
+
+# Titulo
+## Titulo
+### Titulo
+
+***
+Podemos misturar __*configurações*__
+
+---
+
+Lista numerada: 
+
+1. Teste
+0. Teste2
+   1. Teste3
+   2. Teste5
+67. Teste4
+
+***
+Lista demarcada:
+
+- Teste
+* Teste
+    * Teste
+* Teste
+
+---
+Lista de tarefas:
+
+- [x] Criar a PAG principal
+- [x] Criar a PAG da loja
+- [ ] Finalizar a reunião com o cliente
+- [ ] Receber pagamento
+
+![Octocat](https://github.com/user-attachments/assets/b83304a8-87db-426d-8683-59669c583807)
+
+[Acesse meu GitHub](https://github.com/Famontegro)
+
+***
+
+Num | Nome | Nota
+---|---|---
+1 | Rafamonte | 9,0
+2 | Fulano | 2,0
+3 | Ciclano | 5,5
+
+Terminou a tabela
+
+***
+Não entendo direito direito para que serve o comando `document.getElementById()` da linguagem de JavaScript
+
+Olha meu programa em Python
+```
+num = int(input('Digite um valor: '))
+if num % 2 == 0
+   print(f'O valor {num} eh PAR')
+   print(f'O valor {num} eh IMPAR')
+```
+---
+Olá 🖖 ✋ 
+Lista de emojis por [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)
+Lista de emojis para o titulo no [emojipedia.org](https://emojipedia.org/)
+
+---
+>Será que vai chover hoje?
+
+Muito top sua postagem 
