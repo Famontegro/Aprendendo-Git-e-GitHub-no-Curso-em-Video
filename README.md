@@ -8,11 +8,12 @@ Acesse o curso de Git e GitHub de *Gustavo Guanabara* apertando [aqui](https://w
 - A diferença entre Git e GitHub
 - Porque eles são importantes
 - Como funciona o Git e GitHub
-- Sintaxes como `commit`, `push`, `pull`, `clone`, `main`, `braches`, `merge`
+- Sintaxes como `commit`, `push`, `pull`, `clone`, `main`, `branches`, `merge`
 - Repositório local e repositório remoto
 - Principais vantagens de usa-los
 - A historia do Git e GitHub
 - Criar repositorio, clonar repositorios, versionamento
+- Utilização das licenças
 - Linguagem MarkDown 
 - Fazer um site pelo GitHub Pages
 - Entre outros
