@@ -16,5 +16,33 @@ main{
 }
 
 h1{
-    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+
+.CursoEmVideoIMG{
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    height: 150px;
+    width: 400px;
+}
+
+.HTML5eCSS3IMG{
+    width: 150px;
+    height: 100px;
+    float:  right;
+}
+.JavaScriptIMG{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+.Voltar{
+    width: 80px;
+    height: 80px;
+    display: block;
+    margin: auto;
 }
